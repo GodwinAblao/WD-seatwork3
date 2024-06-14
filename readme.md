@@ -65,13 +65,13 @@ Guiding Question:
 - What technology used and how it is used
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
 - MultiPage Website
 - Hover Effect
 - Active Effect
 - Not Effect
 - Popup Effect
+- Hover Glow Effect
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
