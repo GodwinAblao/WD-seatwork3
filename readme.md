@@ -67,9 +67,11 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Hover Effect
+- Active Effect
+- Not Effect
+- Popup Effect
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -116,3 +118,4 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+|Github|Get some ideas|https://github.com/zyx-0314/WD-Seatwork-3|
