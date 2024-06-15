@@ -10,6 +10,15 @@ h1{
   margin-bottom: 2rem;
 }
 
+a{
+  display: flex;
+  text-decoration: none;
+  font-size: 20px;
+  align-items: center;
+  flex-direction: column;
+  padding: 2rem;
+}
+
 .footer-classic {
     background-color: #f2f2f2;
     color: #000000;
@@ -355,48 +364,49 @@ h1{
     color: #fff;
     text-align: center;
     padding: 4rem 0;
-  
-    .container {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-  
-    .footer-logo img {
-      width: 80px;
-      margin-bottom: 1rem;
-      transition: transform 0.3s ease-in-out;
-  
-      &:hover {
-        transform: scale(1.2);
-      }
-    }
-  
-    .footer-content {
-      margin-bottom: 2rem;
-  
-      p {
-        margin-bottom: 1rem;
-        font-size: 1.2rem;
-      }
-  
-      .footer-nav {
-        display: flex;
-        gap: 1.5rem;
-  
-        a {
-          color: #fff;
-          text-decoration: none;
-          font-weight: bold;
-          transition: transform 0.3s ease-in-out;
-  
-          &:hover {
-            transform: scale(1.1);
-          }
-        }
-      }
-    }
-  }
+}
+
+.footer-expand .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-expand .footer-logo img {
+    width: 80px;
+    margin-bottom: 1rem;
+    transition: transform 0.3s ease-in-out;
+}
+
+.footer-expand .footer-logo img:hover {
+    transform: scale(1.2);
+}
+
+.footer-expand .footer-content {
+    margin-bottom: 2rem;
+}
+
+.footer-expand .footer-content p {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
+
+.footer-expand .footer-content .footer-nav {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.footer-expand .footer-content .footer-nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: transform 0.3s ease-in-out;
+}
+
+.footer-expand .footer-content .footer-nav a:hover {
+    transform: scale(1.1);
+}
+
   
   .footer-typewriter {
     background-color: #595959;
