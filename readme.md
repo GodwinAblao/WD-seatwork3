@@ -122,7 +122,7 @@ WD-ProjectName
 |Draw Underline Link Hover Effect / CSS Menu Hover Effect|Get some ideas|https://www.youtube.com/watch?v=aswRKAjjWuE&list=PLNCevxogE3fjQIL36HhmmZNV8kxN_KAyb|
 |Rainbow Underline Hover Effect / CSS Tutorial|Get some ideas|https://www.youtube.com/watch?v=KCTW8dCKHlI&list=PLNCevxogE3fjQIL36HhmmZNV8kxN_KAyb&index=2|
 |Underline And Overline Menu Hover Effect / CSS Tutorial|Get some ideas|https://www.youtube.com/watch?v=wH3bFIXyI1I&list=PLNCevxogE3fjQIL36HhmmZNV8kxN_KAyb&index=3|
-|Cool Navbar Hover Effect CSS / CSS Navigation BarCool Navbar Hover Effect CSS | CSS Navigation Bar|Get some ideas|https://www.youtube.com/watch?v=JuZ6hChsddI&list=PLNCevxogE3fjQIL36HhmmZNV8kxN_KAyb&index=4|
+|Cool Navbar Hover Effect CSS / CSS Navigation BarCool Navbar Hover Effect CSS / CSS Navigation Bar|Get some ideas|https://www.youtube.com/watch?v=JuZ6hChsddI&list=PLNCevxogE3fjQIL36HhmmZNV8kxN_KAyb&index=4|
 |Wiggly Navbar Hover Effect CSS / Link Hover Effect / Html and Css|Get some ideas|https://www.youtube.com/watch?v=mFk2cQDIxxw&list=PLNCevxogE3fjQIL36HhmmZNV8kxN_KAyb&index=5|
 |CSS Navigation Bar Hover Effect / Cool Link Hover Effect / HTML and CSS|Get some ideas|https://www.youtube.com/watch?v=BDvWKwHiSIw&list=PLNCevxogE3fjQIL36HhmmZNV8kxN_KAyb&index=6|
 |Navbar With Rotating Words Link Hover Effect CSS / CSS Link Hover Effects / CSS Tutorial|Get some ideas|https://www.youtube.com/watch?v=jkXd6YR1EAY&list=PLNCevxogE3fjQIL36HhmmZNV8kxN_KAyb&index=7|
